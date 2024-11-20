@@ -10,3 +10,6 @@
 **/samples/
 **/NoOS/
 **/bx_enh_dbg.ini
+
+# Direnv
+.direnv/
